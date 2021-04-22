@@ -48,7 +48,7 @@ body{
 	font-size: 25px;
 	font-family: cursive;
   }
-  #menu_list{
+  #pizzas{
 	background-color:#f5c71a;
 	color:black; 
 	width: 200px;
@@ -92,7 +92,7 @@ body{
 	line-height: 20px;
 	width: 80%;
 	height: 50px;
-	color: #fff;
+	color: rgb(250, 226, 226);
     background: none;
     border: none;
     border-bottom: 1px solid rgb(223, 205, 205);
@@ -106,7 +106,7 @@ body{
 	color: white;
  }
 
-ol.menulist>li
+ol.i_an>li
 {
 	padding-bottom:20px;
 }
